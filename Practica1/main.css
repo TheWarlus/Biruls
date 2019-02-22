@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    padding: 10PX;
+    background: #573697;
+    justify-content: space-around;
+}
+.enlace{
+    display: inline-block;
+    background: darkviolet;
+    color:black;
+    padding: 10px 30px;
+    text-decoration: none;  
+    
+}
+.enlace:hover{
+    background: turquoise;
+    padding: 10px 30px;
+}
+p{
+    color: whitesmoke;
+
+}
